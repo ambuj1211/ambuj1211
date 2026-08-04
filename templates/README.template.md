@@ -10,7 +10,7 @@ C++ • CAD/CAM Automation • AI & Machine Learning • Full-Stack Development 
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Software+Engineer;C%2B%2B+Developer;Artificial+Intelligence;Machine+Learning;CAD%2FCAM+Automation;Open+Source+Contributor;Software+Engineer+Intern+at+Siemens"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Software+Engineer;C%2B%2B+Developer;Artificial+Intelligence;Machine+Learning;CAD%2FCAM+Automation;Software+Engineer+Intern+at+Siemens"/>
 
 </p>
 
