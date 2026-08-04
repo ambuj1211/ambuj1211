@@ -1,7 +1,21 @@
 {
     "username": "brilliantambuj59",
-    "profile_url": "https://www.geeksforgeeks.org/user/brilliantambuj59/",
-    "coding_score": null,
-    "institute_rank": null,
-    "problems_solved": null
+
+    "coding_score": 832,
+
+    "problems_solved": 314,
+
+    "institute_rank": 151,
+
+    "articles_published": 0,
+
+    "school": 0,
+
+    "basic": 45,
+
+    "easy": 130,
+
+    "medium": 123,
+
+    "hard": 16
 }

@@ -1,0 +1,450 @@
+
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="620"
+    height="373"
+    viewBox="0 0 620 373"
+>
+
+<defs>
+
+    <linearGradient
+        id="background"
+        x1="0%"
+        y1="0%"
+        x2="100%"
+        y2="100%"
+    >
+
+        <stop
+            offset="0%"
+            stop-color="#0D1117"
+        />
+
+        <stop
+            offset="100%"
+            stop-color="#161B22"
+        />
+
+    </linearGradient>
+
+
+    <filter id="shadow">
+
+        <feDropShadow
+            dx="0"
+            dy="4"
+            stdDeviation="5"
+            flood-opacity="0.25"
+        />
+
+    </filter>
+
+</defs>
+
+
+<rect
+    x="2"
+    y="2"
+    width="616"
+    height="369"
+    rx="18"
+
+    fill="url(#background)"
+
+    stroke="#30363D"
+
+    stroke-width="2"
+/>
+
+
+<text
+    x="30"
+    y="48"
+
+    font-family="Segoe UI, Arial, sans-serif"
+
+    font-size="28"
+
+    font-weight="700"
+
+    fill="#D29922"
+>
+
+    LeetCode
+
+</text>
+
+
+<line
+    x1="25"
+    y1="66"
+
+    x2="595"
+    y2="66"
+
+    stroke="#30363D"
+
+    stroke-width="1"
+/>
+
+
+
+<rect
+    x="22"
+    y="76"
+
+    width="576"
+
+    height="40"
+
+    rx="10"
+
+    fill="#21262D"
+/>
+
+
+<text
+    x="42"
+    y="105"
+
+    font-family="Segoe UI, Arial, sans-serif"
+
+    font-size="18"
+
+    fill="#C9D1D9"
+>
+
+    Total Solved
+
+</text>
+
+
+<rect
+    x="500"
+    y="82"
+
+    width="80"
+
+    height="28"
+
+    rx="14"
+
+    fill="#3FB950"
+/>
+
+
+<text
+    x="540"
+    y="102"
+
+    text-anchor="middle"
+
+    font-family="Segoe UI, Arial, sans-serif"
+
+    font-size="15"
+
+    font-weight="700"
+
+    fill="#FFFFFF"
+>
+
+    30
+
+</text>
+
+
+
+<rect
+    x="22"
+    y="126"
+
+    width="576"
+
+    height="40"
+
+    rx="10"
+
+    fill="#21262D"
+/>
+
+
+<text
+    x="42"
+    y="155"
+
+    font-family="Segoe UI, Arial, sans-serif"
+
+    font-size="18"
+
+    fill="#C9D1D9"
+>
+
+    Easy
+
+</text>
+
+
+<rect
+    x="500"
+    y="132"
+
+    width="80"
+
+    height="28"
+
+    rx="14"
+
+    fill="#39C5CF"
+/>
+
+
+<text
+    x="540"
+    y="152"
+
+    text-anchor="middle"
+
+    font-family="Segoe UI, Arial, sans-serif"
+
+    font-size="15"
+
+    font-weight="700"
+
+    fill="#FFFFFF"
+>
+
+    11
+
+</text>
+
+
+
+<rect
+    x="22"
+    y="176"
+
+    width="576"
+
+    height="40"
+
+    rx="10"
+
+    fill="#21262D"
+/>
+
+
+<text
+    x="42"
+    y="205"
+
+    font-family="Segoe UI, Arial, sans-serif"
+
+    font-size="18"
+
+    fill="#C9D1D9"
+>
+
+    Medium
+
+</text>
+
+
+<rect
+    x="500"
+    y="182"
+
+    width="80"
+
+    height="28"
+
+    rx="14"
+
+    fill="#D29922"
+/>
+
+
+<text
+    x="540"
+    y="202"
+
+    text-anchor="middle"
+
+    font-family="Segoe UI, Arial, sans-serif"
+
+    font-size="15"
+
+    font-weight="700"
+
+    fill="#FFFFFF"
+>
+
+    19
+
+</text>
+
+
+
+<rect
+    x="22"
+    y="226"
+
+    width="576"
+
+    height="40"
+
+    rx="10"
+
+    fill="#21262D"
+/>
+
+
+<text
+    x="42"
+    y="255"
+
+    font-family="Segoe UI, Arial, sans-serif"
+
+    font-size="18"
+
+    fill="#C9D1D9"
+>
+
+    Hard
+
+</text>
+
+
+<rect
+    x="500"
+    y="232"
+
+    width="80"
+
+    height="28"
+
+    rx="14"
+
+    fill="#F85149"
+/>
+
+
+<text
+    x="540"
+    y="252"
+
+    text-anchor="middle"
+
+    font-family="Segoe UI, Arial, sans-serif"
+
+    font-size="15"
+
+    font-weight="700"
+
+    fill="#FFFFFF"
+>
+
+    0
+
+</text>
+
+
+
+<rect
+    x="22"
+    y="276"
+
+    width="576"
+
+    height="40"
+
+    rx="10"
+
+    fill="#21262D"
+/>
+
+
+<text
+    x="42"
+    y="305"
+
+    font-family="Segoe UI, Arial, sans-serif"
+
+    font-size="18"
+
+    fill="#C9D1D9"
+>
+
+    Ranking
+
+</text>
+
+
+<rect
+    x="500"
+    y="282"
+
+    width="80"
+
+    height="28"
+
+    rx="14"
+
+    fill="#A371F7"
+/>
+
+
+<text
+    x="540"
+    y="302"
+
+    text-anchor="middle"
+
+    font-family="Segoe UI, Arial, sans-serif"
+
+    font-size="15"
+
+    font-weight="700"
+
+    fill="#FFFFFF"
+>
+
+    3,543,827
+
+</text>
+
+
+
+<line
+    x1="25"
+
+    y1="335"
+
+    x2="595"
+
+    y2="335"
+
+    stroke="#30363D"
+/>
+
+
+<text
+    x="310.0"
+
+    y="358"
+
+    text-anchor="middle"
+
+    font-family="Segoe UI, Arial, sans-serif"
+
+    font-size="12"
+
+    fill="#8B949E"
+>
+
+    Updated automatically using GitHub Actions
+
+</text>
+
+
+</svg>
