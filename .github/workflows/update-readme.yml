@@ -1,0 +1,65 @@
+name: Update GitHub Profile README
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # Every day at 00:00 UTC
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Fetch GitHub Stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/github_stats.py
+
+      - name: Fetch LeetCode Stats
+        run: |
+          python scripts/leetcode_stats.py
+
+      - name: Fetch GeeksforGeeks Stats
+        run: |
+          python scripts/gfg_stats.py
+
+      - name: Generate README
+        run: |
+          python scripts/update_readme.py
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+          git add data/*.json
+
+          git diff --cached --quiet || git commit -m "🤖 Auto update README"
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main

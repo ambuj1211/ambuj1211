@@ -16,10 +16,10 @@ Software Engineer • C++ Developer • AI & Machine Learning Enthusiast • CAD
 
 | GitHub | Value |
 |---------|------:|
-| Followers |  |
-| Following |  |
-| Public Repositories |  |
-| Total Stars | 4 |
+| Followers | {{ github.followers }} |
+| Following | {{ github.following }} |
+| Public Repositories | {{ github.public_repos }} |
+| Total Stars | {{ github.total_stars }} |
 
 ---
 
@@ -27,11 +27,11 @@ Software Engineer • C++ Developer • AI & Machine Learning Enthusiast • CAD
 
 | Statistic | Value |
 |-----------|------:|
-| Total Solved | 30 |
-| Easy | 11 |
-| Medium | 19 |
-| Hard | 0 |
-| Ranking | 3543827 |
+| Total Solved | {{ leetcode.total_solved }} |
+| Easy | {{ leetcode.easy }} |
+| Medium | {{ leetcode.medium }} |
+| Hard | {{ leetcode.hard }} |
+| Ranking | {{ leetcode.ranking }} |
 
 ---
 
@@ -39,9 +39,9 @@ Software Engineer • C++ Developer • AI & Machine Learning Enthusiast • CAD
 
 | Statistic | Value |
 |-----------|------:|
-| Coding Score | None |
-| Institute Rank | None |
-| Problems Solved | None |
+| Coding Score | {{ gfg.coding_score }} |
+| Institute Rank | {{ gfg.institute_rank }} |
+| Problems Solved | {{ gfg.problems_solved }} |
 
 ---
 
@@ -158,93 +158,29 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambuj1211&la
 
 # 📈 Top Languages
 
+{% for language, bytes in github.languages.items() %}
 
-- **Jupyter Notebook** — 5851874 bytes
+- **{{ language }}** — {{ bytes }} bytes
 
-
-- **JavaScript** — 3306417 bytes
-
-
-- **HTML** — 1342468 bytes
-
-
-- **CSS** — 351292 bytes
-
-
-- **Python** — 76379 bytes
-
-
-- **C++** — 29417 bytes
-
-
-- **C** — 7554 bytes
-
-
-- **TypeScript** — 374 bytes
-
-
-- **Shell** — 352 bytes
-
+{% endfor %}
 
 ---
 
 # ⭐ Top Repositories
 
+{% for repo in github.repositories[:5] %}
 
-### khata_book
+### {{ repo.name }}
 
-⭐ Stars: 2
+⭐ Stars: {{ repo.stars }}
 
-🍴 Forks: 0
+🍴 Forks: {{ repo.forks }}
 
-🔗 https://github.com/ambuj1211/khata_book
-
----
-
-
-### ambuj-profile-card
-
-⭐ Stars: 1
-
-🍴 Forks: 0
-
-🔗 https://github.com/ambuj1211/ambuj-profile-card
+🔗 {{ repo.url }}
 
 ---
 
-
-### code-compiler
-
-⭐ Stars: 1
-
-🍴 Forks: 0
-
-🔗 https://github.com/ambuj1211/code-compiler
-
----
-
-
-### AlphaPrompt
-
-⭐ Stars: 0
-
-🍴 Forks: 1
-
-🔗 https://github.com/ambuj1211/AlphaPrompt
-
----
-
-
-### ambuj1211
-
-⭐ Stars: 0
-
-🍴 Forks: 0
-
-🔗 https://github.com/ambuj1211/ambuj1211
-
----
-
+{% endfor %}
 
 # 🎯 Goals
 

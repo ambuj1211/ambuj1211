@@ -1,0 +1,188 @@
+{
+    "profile": {
+        "username": "ambuj1211",
+        "name": "Brilliant Ambuj",
+        "bio": "A highly motivated, hardworking, quick learner individual having excellent problem-solving skill. Looking to apply my skill toward web development.",
+        "company": null,
+        "location": "Bihar, India",
+        "blog": "",
+        "followers": 5,
+        "following": 1,
+        "public_repos": 23
+    },
+    "total_stars": 4,
+    "languages": {
+        "Jupyter Notebook": 5851874,
+        "JavaScript": 3306417,
+        "HTML": 1342468,
+        "CSS": 351292,
+        "Python": 76379,
+        "C++": 29417,
+        "C": 7554,
+        "TypeScript": 374,
+        "Shell": 352
+    },
+    "repositories": [
+        {
+            "name": "khata_book",
+            "stars": 2,
+            "forks": 0,
+            "language": "C",
+            "url": "https://github.com/ambuj1211/khata_book"
+        },
+        {
+            "name": "ambuj-profile-card",
+            "stars": 1,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ambuj1211/ambuj-profile-card"
+        },
+        {
+            "name": "code-compiler",
+            "stars": 1,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ambuj1211/code-compiler"
+        },
+        {
+            "name": "AlphaPrompt",
+            "stars": 0,
+            "forks": 1,
+            "language": "JavaScript",
+            "url": "https://github.com/ambuj1211/AlphaPrompt"
+        },
+        {
+            "name": "ambuj1211",
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ambuj1211/ambuj1211"
+        },
+        {
+            "name": "ASSIGNMENT",
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ambuj1211/ASSIGNMENT"
+        },
+        {
+            "name": "chat_app",
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ambuj1211/chat_app"
+        },
+        {
+            "name": "EducationalMania",
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ambuj1211/EducationalMania"
+        },
+        {
+            "name": "Gesture-Controlled-Virtual-Mouse",
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ambuj1211/Gesture-Controlled-Virtual-Mouse"
+        },
+        {
+            "name": "Happy-birthday",
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ambuj1211/Happy-birthday"
+        },
+        {
+            "name": "LeetCodePractice",
+            "stars": 0,
+            "forks": 0,
+            "language": "C++",
+            "url": "https://github.com/ambuj1211/LeetCodePractice"
+        },
+        {
+            "name": "Ml-Assignment",
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ambuj1211/Ml-Assignment"
+        },
+        {
+            "name": "pau",
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ambuj1211/pau"
+        },
+        {
+            "name": "Privacy_preservation_using_differential_privacy",
+            "stars": 0,
+            "forks": 0,
+            "language": "Jupyter Notebook",
+            "url": "https://github.com/ambuj1211/Privacy_preservation_using_differential_privacy"
+        },
+        {
+            "name": "QR-Code-Generator",
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ambuj1211/QR-Code-Generator"
+        },
+        {
+            "name": "roadmap.sh_clone_byAmbuj",
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ambuj1211/roadmap.sh_clone_byAmbuj"
+        },
+        {
+            "name": "SabkaVikasJayti",
+            "stars": 0,
+            "forks": 2,
+            "language": "HTML",
+            "url": "https://github.com/ambuj1211/SabkaVikasJayti"
+        },
+        {
+            "name": "scientific_calc",
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ambuj1211/scientific_calc"
+        },
+        {
+            "name": "sorry_love",
+            "stars": 0,
+            "forks": 0,
+            "language": "HTML",
+            "url": "https://github.com/ambuj1211/sorry_love"
+        },
+        {
+            "name": "temperature-converter",
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ambuj1211/temperature-converter"
+        },
+        {
+            "name": "TextToSpeach",
+            "stars": 0,
+            "forks": 0,
+            "language": "CSS",
+            "url": "https://github.com/ambuj1211/TextToSpeach"
+        },
+        {
+            "name": "todo-csv-manager",
+            "stars": 0,
+            "forks": 0,
+            "language": "JavaScript",
+            "url": "https://github.com/ambuj1211/todo-csv-manager"
+        },
+        {
+            "name": "virtual_mouse",
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ambuj1211/virtual_mouse"
+        }
+    ]
+}
