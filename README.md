@@ -14,16 +14,25 @@ Software Engineer • C++ Developer • AI & Machine Learning Enthusiast • CAD
 
 # 📊 Live Statistics
 
-| GitHub | Value |
-|---------|------:|
-| Followers |  |
-| Following |  |
-| Public Repositories |  |
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h2>🐙 GitHub</h2>
+
+| Statistic | Value |
+|-----------|------:|
+| Followers | 5 |
+| Following | 1 |
+| Repositories | 23 |
 | Total Stars | 4 |
 
----
+</td>
 
-# 💻 LeetCode
+<td width="33%" valign="top">
+
+<h2>💻 LeetCode</h2>
 
 | Statistic | Value |
 |-----------|------:|
@@ -33,9 +42,11 @@ Software Engineer • C++ Developer • AI & Machine Learning Enthusiast • CAD
 | Hard | 0 |
 | Ranking | 3543827 |
 
----
+</td>
 
-# 💚 GeeksforGeeks
+<td width="33%" valign="top">
+
+<h2>💚 GeeksforGeeks</h2>
 
 | Statistic | Value |
 |-----------|------:|
@@ -43,7 +54,10 @@ Software Engineer • C++ Developer • AI & Machine Learning Enthusiast • CAD
 | Institute Rank | None |
 | Problems Solved | None |
 
----
+</td>
+
+</tr>
+</table>
 
 # 🌐 Connect
 
