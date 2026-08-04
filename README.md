@@ -62,116 +62,122 @@ C++ • CAD/CAM Automation • AI & Machine Learning • Full-Stack Development 
 
 # 🚀 Tech Stack
 
-<p align="center">
+<table align="center">
+<tr>
 
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=cpp" height="48"/><br>
+<td align="center" width="90">
+<a href="https://isocpp.org/">
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/>
 <b>C++</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
-<img src="https://skillicons.dev/icons?i=c" height="48"/><br>
+<td align="center" width="90">
+<a href="https://www.open-std.org/jtc1/sc22/wg14/">
+<img src="https://skillicons.dev/icons?i=c" width="48"/><br/>
 <b>C</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=python" height="48"/><br>
+<td align="center" width="90">
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
 <b>Python</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.oracle.com/java/" target="_blank">
-<img src="https://skillicons.dev/icons?i=java" height="48"/><br>
+<td align="center" width="90">
+<a href="https://www.oracle.com/java/">
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br/>
 <b>Java</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=git" height="48"/><br>
+<td align="center" width="90">
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br/>
 <b>Git</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="48"/><br>
+<td align="center" width="90">
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br/>
 <b>GitHub</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.kernel.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linux" height="48"/><br>
+<td align="center" width="90">
+<a href="https://www.kernel.org/">
+<img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>
 <b>Linux</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=vscode" height="48"/><br>
+<td align="center" width="90">
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>
 <b>VS Code</b>
 </a>
+</td>
 
-</p>
+</tr>
 
-<br>
+<tr>
 
-<p align="center">
-
-<a href="https://cmake.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=cmake" height="48"/><br>
+<td align="center">
+<a href="https://cmake.org/">
+<img src="https://skillicons.dev/icons?i=cmake" width="48"/><br/>
 <b>CMake</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=nodejs" height="48"/><br>
+<td align="center">
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>
 <b>Node.js</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://expressjs.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=express" height="48"/><br>
+<td align="center">
+<a href="https://expressjs.com/">
+<img src="https://skillicons.dev/icons?i=express" width="48"/><br/>
 <b>Express</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mongodb" height="48"/><br>
+<td align="center">
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>
 <b>MongoDB</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=mysql" height="48"/><br>
+<td align="center">
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>
 <b>MySQL</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=tensorflow" height="48"/><br>
+<td align="center">
+<a href="https://www.tensorflow.org/">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48"/><br/>
 <b>TensorFlow</b>
 </a>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://skillicons.dev/icons?i=pytorch" height="48"/><br>
+<td align="center">
+<a href="https://pytorch.org/">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br/>
 <b>PyTorch</b>
 </a>
+</td>
 
-</p>
+<td></td>
+
+</tr>
+</table>
 
 ---
 
