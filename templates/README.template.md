@@ -250,22 +250,6 @@ Collection of LeetCode solutions implemented in C++ with optimized approaches.
 
 ---
 
-# ⭐ Top Repositories
-
-{% for repo in github.repositories[:5] %}
-
-### {{ repo.name }}
-
-⭐ Stars: {{ repo.stars }}
-
-🍴 Forks: {{ repo.forks }}
-
-🔗 {{ repo.url }}
-
----
-
-{% endfor %}
-
 # 🎯 Goals
 
 - 🚀 Build impactful Open Source software
