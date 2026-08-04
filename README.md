@@ -185,7 +185,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambuj1211&la
 - **CSS** — 351292 bytes
 
 
-- **Python** — 76379 bytes
+- **Python** — 84467 bytes
 
 
 - **C++** — 29417 bytes
