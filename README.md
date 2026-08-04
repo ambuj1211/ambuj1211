@@ -12,52 +12,21 @@ Software Engineer • C++ Developer • AI & Machine Learning Enthusiast • CAD
 
 ---
 
-# 📊 Live Statistics
+# 📊 Coding Profiles
 
-<table>
-<tr>
+<p align="center">
 
-<td width="33%" valign="top">
+<img src="./assets/github.svg" width="49%" alt="GitHub Stats"/>
 
-<h2>🐙 GitHub</h2>
+<img src="./assets/leetcode.svg" width="49%" alt="LeetCode Stats"/>
 
-| Statistic | Value |
-|-----------|------:|
-| Followers | 5 |
-| Following | 1 |
-| Repositories | 23 |
-| Total Stars | 4 |
+</p>
 
-</td>
+<p align="center">
 
-<td width="33%" valign="top">
+<img src="./assets/gfg.svg" width="70%" alt="GeeksforGeeks Stats"/>
 
-<h2>💻 LeetCode</h2>
-
-| Statistic | Value |
-|-----------|------:|
-| Total Solved | 30 |
-| Easy | 11 |
-| Medium | 19 |
-| Hard | 0 |
-| Ranking | 3543827 |
-
-</td>
-
-<td width="33%" valign="top">
-
-<h2>💚 GeeksforGeeks</h2>
-
-| Statistic | Value |
-|-----------|------:|
-| Coding Score | None |
-| Institute Rank | None |
-| Problems Solved | None |
-
-</td>
-
-</tr>
-</table>
+</p>
 
 # 🌐 Connect
 
@@ -97,19 +66,7 @@ Software Engineer • C++ Developer • AI & Machine Learning Enthusiast • CAD
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=ambuj1211&show_icons=true&theme=tokyonight"/>
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambuj1211&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -131,16 +88,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambuj1211&la
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ambuj1211&theme=tokyonight"/>
-
-</p>
-
----
-
 # 💻 LeetCode Card
 
 <p align="center">
@@ -155,7 +102,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambuj1211&la
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/ambuj1211/ambuj1211/output/github-contribution-grid-snake-dark.svg"/>
+<img
+src="https://raw.githubusercontent.com/ambuj1211/ambuj1211/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -163,12 +111,21 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambuj1211&la
 
 # 🚀 Featured Projects
 
-- 🤖 3D CAD Image Generation Using Graph Neural Networks
-- 🚀 AlphaPrompt
-- 📦 Telegram Drive
-- 📚 Educational Mania
+<p align="center">
 
----
+<a href="https://github.com/ambuj1211/AlphaPrompt">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ambuj1211&repo=AlphaPrompt&theme=tokyonight"/>
+
+</a>
+
+<a href="https://github.com/ambuj1211/Telegram-Drive">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ambuj1211&repo=Telegram-Drive&theme=tokyonight"/>
+
+</a>
+
+</p>
 
 # 📈 Top Languages
 
