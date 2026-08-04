@@ -92,16 +92,6 @@ C++ • CAD/CAM Automation • AI & Machine Learning • Full-Stack Development 
 
 ---
 
-# 💻 LeetCode Card
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/brilliantambuj5?theme=dark&font=Nunito"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
