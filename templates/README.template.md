@@ -64,7 +64,112 @@ C++ • CAD/CAM Automation • AI & Machine Learning • Full-Stack Development 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,git,github,linux,vscode,cmake,nodejs,express,mongodb,mysql,tensorflow,pytorch"/>
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=cpp" height="48"/><br>
+<b>C++</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank">
+<img src="https://skillicons.dev/icons?i=c" height="48"/><br>
+<b>C</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" height="48"/><br>
+<b>Python</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.oracle.com/java/" target="_blank">
+<img src="https://skillicons.dev/icons?i=java" height="48"/><br>
+<b>Java</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" height="48"/><br>
+<b>Git</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="48"/><br>
+<b>GitHub</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.kernel.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linux" height="48"/><br>
+<b>Linux</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" height="48"/><br>
+<b>VS Code</b>
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="https://cmake.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=cmake" height="48"/><br>
+<b>CMake</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" height="48"/><br>
+<b>Node.js</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=express" height="48"/><br>
+<b>Express</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" height="48"/><br>
+<b>MongoDB</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" height="48"/><br>
+<b>MySQL</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tensorflow" height="48"/><br>
+<b>TensorFlow</b>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=pytorch" height="48"/><br>
+<b>PyTorch</b>
+</a>
 
 </p>
 
