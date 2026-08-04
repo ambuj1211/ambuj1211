@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Brilliant Ambuj</h1>
 
 <h3 align="center">
-Software Engineer • C++ Developer • AI & Machine Learning Enthusiast • CAD/CAM Developer
+🚀 Software Engineer Intern at Siemens | 1+ Years of Industry Experience
 </h3>
 
 <p align="center">
+C++ • CAD/CAM Automation • AI & Machine Learning • Full-Stack Development • Open Source
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Software+Engineer;C%2B%2B+Developer;Artificial+Intelligence;Machine+Learning;CAD%2FCAM+Automation;Open+Source+Contributor"/>
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Software+Engineer;C%2B%2B+Developer;Artificial+Intelligence;Machine+Learning;CAD%2FCAM+Automation;Open+Source+Contributor;Software+Engineer+Intern+at+Siemens"/>
 
 </p>
 
