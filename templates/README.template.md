@@ -111,21 +111,130 @@ src="https://raw.githubusercontent.com/ambuj1211/ambuj1211/output/github-contrib
 
 # 🚀 Featured Projects
 
-<p align="center">
+<table>
 
-<a href="https://github.com/ambuj1211/AlphaPrompt">
+<tr>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ambuj1211&repo=AlphaPrompt&theme=tokyonight"/>
+<td width="50%">
 
-</a>
+<h3>🚀 AlphaPrompt</h3>
 
-<a href="https://github.com/ambuj1211/Telegram-Drive">
+AI Prompt Engineering platform with a modern UI for creating, managing and sharing prompts.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ambuj1211&repo=Telegram-Drive&theme=tokyonight"/>
+**Tech Stack**
 
-</a>
+- JavaScript
+- React
+- Node.js
 
-</p>
+⭐ AI Prompt Engineering
+
+🔗 https://github.com/ambuj1211/AlphaPrompt
+
+</td>
+
+<td width="50%">
+
+<h3>💬 Chat App</h3>
+
+Real-time chat application built using modern web technologies.
+
+**Tech Stack**
+
+- HTML
+- CSS
+- JavaScript
+
+⭐ Real-Time Messaging
+
+🔗 https://github.com/ambuj1211/chat_app
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>📚 EducationalMania</h3>
+
+Educational platform for JEE students featuring notes, quizzes, authentication, payments and learning resources.
+
+**Tech Stack**
+
+- React
+- Express
+- Prisma
+- SQLite
+- MongoDB Atlas
+- Firebase
+
+⭐ Full Stack Education Platform
+
+🔗 https://github.com/ambuj1211/EducationalMania
+
+</td>
+
+<td width="50%">
+
+<h3>🔒 Differential Privacy</h3>
+
+Privacy-preserving machine learning implementation using Differential Privacy and DP-SGD on the MNIST dataset.
+
+**Tech Stack**
+
+- Python
+- TensorFlow
+- Jupyter Notebook
+
+⭐ Machine Learning Research
+
+🔗 https://github.com/ambuj1211/Privacy_preservation_using_differential_privacy
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>🖱 Virtual Mouse</h3>
+
+Control the mouse using computer vision and hand gesture recognition.
+
+**Tech Stack**
+
+- Python
+- OpenCV
+- MediaPipe
+
+⭐ Computer Vision
+
+🔗 https://github.com/ambuj1211/virtual_mouse
+
+</td>
+
+<td width="50%">
+
+<h3>💻 LeetCode Practice</h3>
+
+Collection of LeetCode solutions implemented in C++ with optimized approaches.
+
+**Tech Stack**
+
+- C++
+
+⭐ Data Structures & Algorithms
+
+🔗 https://github.com/ambuj1211/LeetCodePractice
+
+</td>
+
+</tr>
+
+</table>
 
 # 📈 Top Languages
 
