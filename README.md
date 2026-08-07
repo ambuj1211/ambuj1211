@@ -347,7 +347,7 @@ Collection of LeetCode solutions implemented in C++ with optimized approaches.
 - **Jupyter Notebook** — 5851874 bytes
 
 
-- **JavaScript** — 3735811 bytes
+- **JavaScript** — 3740787 bytes
 
 
 - **HTML** — 1342468 bytes
