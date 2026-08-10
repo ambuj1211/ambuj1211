@@ -8,7 +8,7 @@
         "blog": "",
         "followers": 5,
         "following": 1,
-        "public_repos": 24
+        "public_repos": 25
     },
     "total_stars": 7,
     "languages": {
@@ -113,6 +113,13 @@
             "forks": 0,
             "language": "Python",
             "url": "https://github.com/ambuj1211/Ml-Assignment"
+        },
+        {
+            "name": "myPortfolio",
+            "stars": 0,
+            "forks": 0,
+            "language": null,
+            "url": "https://github.com/ambuj1211/myPortfolio"
         },
         {
             "name": "pau",
