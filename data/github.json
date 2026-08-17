@@ -13,10 +13,10 @@
     "total_stars": 7,
     "languages": {
         "Jupyter Notebook": 5851874,
-        "JavaScript": 3742542,
-        "HTML": 1342108,
-        "CSS": 346232,
-        "Python": 102557,
+        "JavaScript": 3750955,
+        "HTML": 1344763,
+        "CSS": 350116,
+        "Python": 192205,
         "C++": 29417,
         "C": 7554,
         "Shell": 925,
@@ -90,7 +90,7 @@
             "name": "dev-radar",
             "stars": 0,
             "forks": 0,
-            "language": null,
+            "language": "Python",
             "url": "https://github.com/ambuj1211/dev-radar"
         },
         {
