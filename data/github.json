@@ -8,7 +8,7 @@
         "blog": "",
         "followers": 5,
         "following": 1,
-        "public_repos": 25
+        "public_repos": 26
     },
     "total_stars": 7,
     "languages": {
@@ -16,7 +16,7 @@
         "JavaScript": 3750955,
         "HTML": 1344763,
         "CSS": 350116,
-        "Python": 192205,
+        "Python": 205073,
         "C++": 29417,
         "C": 7554,
         "Shell": 925,
@@ -169,6 +169,13 @@
             "forks": 0,
             "language": "HTML",
             "url": "https://github.com/ambuj1211/sorry_love"
+        },
+        {
+            "name": "TeachHinglish",
+            "stars": 0,
+            "forks": 0,
+            "language": "Python",
+            "url": "https://github.com/ambuj1211/TeachHinglish"
         },
         {
             "name": "temperature-converter",
