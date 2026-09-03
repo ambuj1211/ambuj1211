@@ -16,7 +16,7 @@
         "JavaScript": 3750955,
         "HTML": 1344763,
         "CSS": 350116,
-        "Python": 192205,
+        "Python": 260314,
         "C++": 29417,
         "C": 7554,
         "Shell": 925,
@@ -174,7 +174,7 @@
             "name": "TeachHinglish",
             "stars": 0,
             "forks": 0,
-            "language": null,
+            "language": "Python",
             "url": "https://github.com/ambuj1211/TeachHinglish"
         },
         {
