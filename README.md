@@ -356,7 +356,7 @@ Collection of LeetCode solutions implemented in C++ with optimized approaches.
 - **CSS** — 350116 bytes
 
 
-- **Python** — 271269 bytes
+- **Python** — 333186 bytes
 
 
 - **C++** — 29417 bytes
@@ -366,6 +366,9 @@ Collection of LeetCode solutions implemented in C++ with optimized approaches.
 
 
 - **Shell** — 925 bytes
+
+
+- **Mako** — 704 bytes
 
 
 - **TypeScript** — 374 bytes
