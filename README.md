@@ -353,10 +353,10 @@ Collection of LeetCode solutions implemented in C++ with optimized approaches.
 - **HTML** — 1344763 bytes
 
 
+- **Python** — 354448 bytes
+
+
 - **CSS** — 350116 bytes
-
-
-- **Python** — 333186 bytes
 
 
 - **C++** — 29417 bytes
